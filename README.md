@@ -1,4 +1,3 @@
-# CHAITANYA-2.O
 # 🤖 CHAITANYA 2.O – AI Desktop Assistant
 
 A powerful voice-controlled AI assistant built using **Python**, combining AI intelligence, automation, and a modern GUI to perform real-world tasks through voice commands.
@@ -32,7 +31,7 @@ CHAITANYA 2.O is an advanced AI assistant capable of understanding voice command
 
 ## 🧩 Project Structure
 
-```id="treefinal"
+```
 CHAITANYA-2.O/
 │
 ├── Main.py                  # Main entry point (runs assistant)
@@ -80,7 +79,7 @@ CHAITANYA-2.O/
 
 ## ▶️ Run the Project
 
-```bash id="runupdated"
+```bash
 pip install pyqt5 cohere groq edge-tts pygame selenium webdriver-manager pillow requests python-dotenv pywhatkit AppOpener keyboard
 python Main.py
 ```
